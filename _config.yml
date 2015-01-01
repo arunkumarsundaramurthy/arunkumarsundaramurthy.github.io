@@ -5,13 +5,13 @@ highlighter: pygments
 # Site settings
 title: "Logperience"
 description: > # this means to ignore newlines until "email:"
-   A log of my XP
+   a log of my XP
 
 email: arunkumarsundaramurthy@gmail.com
 #blog logo
 logo: "/assets/images/logo.png"
 # blog cover
-cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
+cover: "/assets/images/keyboard.jpg"
 
 name: 'Arun Kumar Sundaramurthy'
 author: 'Arun Kumar Sundaramurthy'
@@ -19,7 +19,7 @@ author_image: "/assets/images/author.jpg"
 
 paginate:	5
 
-url: "http://myblog.***.***" # the base hostname & protocol for your site
+url: "http://arunkumarsundaramurthy.github.io/" # the base hostname & protocol for your site
 baseurl: ""
 
 # social icons and sharing options
