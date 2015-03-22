@@ -3,7 +3,7 @@ markdown: redcarpet
 highlighter: pygments
 
 # Site settings
-title: "Logperience - Log by Arun Kumar Sundaramurthy"
+title: "Logperience"
 description: > # this means to ignore newlines until "email:"
    a log of my XP
 
