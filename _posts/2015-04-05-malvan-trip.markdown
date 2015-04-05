@@ -4,7 +4,7 @@ title:  "Malvan Trip"
 date:   2015-04-05 17:30:00
 categories: trip maharastra pune
 tags: featured
-image: /assets/article_images/2015-04-05-malvan-trip/tarkarli_beach_4.jpg
+image: /assets/article_images/2015-04-05-malvan-trip/tarkarli.jpg
 ---
 Malvan is a budding tourist destination. It is 400 Kms from Pune and 550 Kms from Mumbai by road. Our main reason to visit Malvan was for the scuba diving. 
 
