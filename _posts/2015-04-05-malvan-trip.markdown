@@ -45,7 +45,7 @@ Scuba diving is done in the waters close to Sindhudurg fort. We went there by ar
 
 ![Scuba Diving Spot]({{ site.url }}/assets/article_images/2015-04-05-malvan-trip/scuba_diving.JPG)
 
->Once I was inside water it was full of greenish blue. I didn’t even feel like I was moving until I reached the bottom of the see the coral. Some told that they had a little pain in their ears due to pressure.
+>After dipping into the sea, all I could see was greenish blue. I didn’t even feel like I was swimming until I reached the bottom to see the coral. The thing that struck my mind was `Theory of Relativity`. As I could not see any other object, I could not feel my movement. Some told that they had a little pain in their ears due to pressure.
 
 [Rock garden](http://www.tripadvisor.in/Attraction_Review-g1227937-d3823244-Reviews-Rock_Garden-Malvan_Maharashtra.html "Rock Garden") is a close by place, and good to visit in the evening. You get to see a lot of crab over there.
 
