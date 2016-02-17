@@ -1,6 +1,5 @@
 # Build settings
-markdown: redcarpet
-highlighter: pygments
+highlighter: rogue
 
 # Site settings
 title: "Logperience"
@@ -21,6 +20,9 @@ paginate:	5
 
 url: "http://blog.arunks.me/" # the base hostname & protocol for your site
 baseurl: ""
+
+# Gems
+gems: [jekyll-paginate]
 
 # social icons and sharing options
 social:
