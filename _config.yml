@@ -11,11 +11,11 @@ email: arunkumarsundaramurthy@gmail.com
 #blog logo
 logo: "/assets/images/logo.png"
 # blog cover
-cover: "/assets/images/keyboard.jpg"
+cover: "/assets/images/test.jpg"
 
 name: 'Arun Kumar Sundaramurthy'
 author: 'Arun Kumar Sundaramurthy'
-author_image: "/assets/images/author.jpg"
+author_image: "/assets/images/cover.jpg"
 
 paginate:	5
 
